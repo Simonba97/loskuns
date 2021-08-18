@@ -1,12 +1,11 @@
-# QR_SURPRISES - QR_Patri 🟡
+# SIMONBA97 - LOS KUNS 🟡
 
-Proyect from Patri by [@QR_Surprises](https://instagram.com/QR_Surprises) ⚠️.
+Proyect from LosKuns by [@Simonba97](https://instagram.com/Simonba97) ⚠️.
 
 By [Simón Bustamante Alzate](https://instagram.com/simonba97)
 
 ## CRÉDITOS
 - [Simón Bustamante Alzate](https://instagram.com/simonba97)
-- [QR Surprises®](https://instagram.com/QR_Surprises)
 
 ## LICENCIA 
 
